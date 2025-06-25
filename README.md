@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **itsHungw/itsHungw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,13 +31,13 @@ This repository serves as my **digital learning portfolio** where I store:
 - 📝 **Documentation** of my learning progress
 - 🎨 **Creative projects** that showcase my skills
 
-<!--## 🛠️ Technologies & Tools -->
-```
+<!--## 🛠️ Technologies & Tools 
+
 Programming Languages: [Add your languages here, e.g., Java, Python, JavaScript]
 Frameworks: [Add frameworks you're learning/using]
 Databases: [Add databases you work with]
 Tools: [Add tools you use, e.g., Git, VS Code, IntelliJ]
-```
+-->
 
 ## 📊 GitHub Stats
 ![Hung's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsHungw&show_icons=true&theme=radical)
@@ -58,9 +58,9 @@ Tools: [Add tools you use, e.g., Git, VS Code, IntelliJ]
 - [ ] Software Engineering Principles
 - [ ] Mobile App Development
 
-### Completed Courses:
+<!--### Completed Courses:
 - ✅ [Course Name] - [Brief description]
-- ✅ [Course Name] - [Brief description]
+- ✅ [Course Name] - [Brief description] -->
 
 ## 🎯 Goals for 2025
 - 🔥 Complete my Semester with excellent grades
@@ -70,9 +70,20 @@ Tools: [Add tools you use, e.g., Git, VS Code, IntelliJ]
 - 📚 Master new programming languages and frameworks
 
 ## 📫 Let's Connect!
-- 📧 Email: [vinhung06vl@gmai.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/v%C4%A9nh-h%C6%B0ng-nguyen-8a6a67357/]
-- 📱 Facebook: [https://www.facebook.com/nguyen.vinhhung.733/]
+<p align="center">
+  <a href="mailto:vinhung06vl@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/v%C4%A9nh-h%C6%B0ng-nguyen-8a6a67357/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/nguyen.vinhhung.733/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/ng_vinhhung.47/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ## 💭 Fun Facts
 - ⚡ I love solving coding challenges in my free time
