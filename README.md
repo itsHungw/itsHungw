@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 # Hi there! 👋 I'm Hung
 
 ## 🎓 About Me
-- 🎯 **Student** at **FPT University**
+- 🎯 **First year Student** at **FPT University**
 - 💻 **Passionate** about technology and software development
 - 📚 Currently documenting my **learning journey** through various programming languages and technologies
 - 🌱 Always eager to learn new technologies and improve my skills
