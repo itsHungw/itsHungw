@@ -74,16 +74,16 @@ Tools: [Add tools you use, e.g., Git, VS Code, IntelliJ]
 
 ## 📫 Let's Connect!
 <p align="center">
-  <a href="mailto:vinhung06vl@gmail.com">
+  <a href="mailto:vinhung06vl@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/v%C4%A9nh-h%C6%B0ng-nguyen-8a6a67357/">
+  <a href="https://www.linkedin.com/in/v%C4%A9nh-h%C6%B0ng-nguyen-8a6a67357/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/nguyen.vinhhung.733/">
+  <a href="https://www.facebook.com/nguyen.vinhhung.733/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://www.instagram.com/ng_vinhhung.47/">
+  <a href="https://www.instagram.com/ng_vinhhung.47/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
