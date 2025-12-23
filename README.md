@@ -14,22 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there! 👋 I'm Hung
+# Hi there!  I'm Hung
 
-## 🎓 About Me
-- 🎯 **First year Student** at **FPT University**
-- 💻 **Passionate** about technology and software development
-- 📚 Currently documenting my **learning journey** through various programming languages and technologies
-- 🌱 Always eager to learn new technologies and improve my skills
-- 🎯 Building projects to apply theoretical knowledge into practical solutions
+##  About Me
+-  **Student** at **FPT University**
+-  **Passionate** about technology and software development
+-  Currently documenting my **learning journey** through various programming languages and technologies
+-  Always eager to learn new technologies and improve my skills
+-  Building projects to apply theoretical knowledge into practical solutions
 
-## 🚀 What You'll Find Here
+##  What You'll Find Here
 This repository serves as my **digital learning portfolio** where I store:
-- 📖 **Study materials** and notes from my courses
-- 💡 **Personal projects** and coding exercises
-- 🛠️ **Experimental code** and proof-of-concepts
-- 📝 **Documentation** of my learning progress
-- 🎨 **Creative projects** that showcase my skills
+-  **Study materials** and notes from my courses
+-  **Personal projects** and coding exercises
+-  **Experimental code** and proof-of-concepts
+-  **Documentation** of my learning progress
+-  **Creative projects** that showcase my skills
 
 <!--## 🛠️ Technologies & Tools 
 
@@ -53,7 +53,7 @@ Tools: [Add tools you use, e.g., Git, VS Code, IntelliJ]
 - 💡 **[Project Name]** - Brief description of what it does
 - 🎯 **[Project Name]** - Brief description of what it does-->
 
-## 📈 Learning Progress
+##  Learning Progress
 ### Current Focus Areas:
 - [ ] Advanced Programming Concepts
 - [ ] Web Development (Frontend/Backend)
@@ -65,12 +65,12 @@ Tools: [Add tools you use, e.g., Git, VS Code, IntelliJ]
 - ✅ [Course Name] - [Brief description]
 - ✅ [Course Name] - [Brief description] -->
 
-## 🎯 Goals for 2025
-- 🔥 Complete my Semester with excellent grades
-- 💼 Gain practical experience through internships
-- 🚀 Build 5+ meaningful projects
-- 🌐 Contribute to open-source projects
-- 📚 Master new programming languages and frameworks
+##  Goals for 2025
+-  Complete my Semester with excellent grades
+-  Gain practical experience through internships
+-  Build 5+ meaningful projects
+-  Contribute to open-source projects
+-  Master new programming languages and frameworks
 
 ## 📫 Let's Connect!
 <p align="center">
@@ -88,16 +88,12 @@ Tools: [Add tools you use, e.g., Git, VS Code, IntelliJ]
   </a>
 </p>
 
-## 💭 Fun Facts
-- ⚡ I love solving coding challenges in my free time
-- 🎮 Gaming enthusiast and tech gadget lover
-- 🌏 Passionate about learning new technologies
-- ☕ Coffee fuels my coding sessions
+
 
 ---
-### 📚 "Learning never exhausts the mind" - Leonardo da Vinci :))
+###  "Learning never exhausts the mind" - Leonardo da Vinci :))
 
-⭐️ From [itsHungw](https://github.com/itsHungw)
+ From [itsHungw](https://github.com/itsHungw)
 
 ---
 **Note**: This profile is constantly updated as I progress through my studies and gain new experiences. Feel free to explore my repositories and don't hesitate to reach out if you'd like to collaborate or discuss technology!
